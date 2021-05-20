@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>infytel-config-server</name>
-	<description>Config server for Infytel</description>
+	<description>Config server for Infycart</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

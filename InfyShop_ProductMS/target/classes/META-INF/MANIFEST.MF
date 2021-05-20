@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Built-By: mohit
+Built-By: Sanket
 Build-Jdk: 15.0.2
-Implementation-Title: Call-Details-Microservice
+Implementation-Title: ProductMS
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.infosys.infytel
+Implementation-Vendor-Id: com.infosys.InfyCart
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
- -starter-parent/CallDetailsMS
+ -starter-parent/ProductMS
 Created-By: Maven Integration for Eclipse
 
